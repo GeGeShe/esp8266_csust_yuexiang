@@ -174,7 +174,6 @@ void getDevOrder() {
 }
 
 void setup() {
-  Serial.begin(115200);
   WiFi.softAPConfig(local_IP, gateway, subnet);
   WiFi.softAP(ssid, password);
 
