@@ -41,7 +41,7 @@ I recommend **NodeMCU** because it is more friendly for beginners. You can get t
 
 5. Go to 工具 -> 管理库, search `ArduinoJson` and install the version 5.13.5.
 
-6. Download the source code and open `esp8266_csust_shower.ino` with Arduino.
+6. Download the source code and open `esp8266_csust_yuexiang.ino` with Arduino.
 
 7. Modify settings based on packet capture results.
 
