@@ -1,4 +1,4 @@
-#用ESP8266破解悦享校园
+# 用ESP8266破解悦享校园
 <p align="center"><img alt="PICTURE" src="https://i.loli.net/2019/12/28/eSGROt32XV7jciF.png" width="500"></p>
 ## About this project
 This project is to crack the hot water system of CSUST(长沙理工大学云塘) by using an ESP8266 WiFi SoC.
