@@ -3,7 +3,7 @@
 
 ## About this project
 
-This project is to crack the hot water system of CSUST(长沙理工大学云塘) by using an ESP8266 WiFi SoC.
+This project is to crack the hot water system of CSUST by using an ESP8266 WiFi SoC.
 
 No one seems to care about the huge vulnerability in the hot water system, so I took action and enabled everyone who has less than 20 yuan to spare to recreate this project.
 
